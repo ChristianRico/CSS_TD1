@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#93CFE6
+}
+
+.titre {
+	background-color:#60F;
+	color:#FFF;
+	border-width: 3px;
+	border-style:solid;
+	border-color:black;
+	text-align:center;
+	padding:10px;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10px;
+}
+
+.menu {
+	background-color:#CCCC99;
+	border-width: 1px;
+	border-style:solid;
+	border-color:black;
+	text-align:center;
+	padding:10px;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10px;
+}
+
+.corps {
+	background-color:#F0CE88;
+	border-width: 1px;
+	border-style:dashed;
+	border-color:black;
+	text-align:center;
+	padding:10px;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10px;
+
+}
+
+.article {
+	background-color:#FEF5DC;
+	border-width: 1px;
+	border-style:dashed;
+	border-color:black;
+	text-align:center;
+	padding:10px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.article h1 {
+	text-decoration:underline;
+}
